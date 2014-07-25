@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShakeAlarm</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="alarm_enabled">Enabled</string>
+    <string name="alarm_disabled">Disabled</string>
+    <string name="key_alarm_status">alarm_status</string>
+    <string name="enable_alarm">Enable Alarm</string>
+    <string name="key_time">alarm_time</string>
+    <string name="Time">Time</string>
+
+</resources>
